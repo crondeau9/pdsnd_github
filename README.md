@@ -10,9 +10,10 @@ _1/24/2025_
 This project uses Python to explore and answer questions related to bike share systems for three major cities in the United States -- Chicago, New York City, and Washington.
 
 ### Files used
-Include the files used 
-bullets
+*chicago.csv
+*new_york_city.csv
+*washington.cs
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-link
+I consulted this page https://motivateco.com to learn more about the bikeshare data.
