@@ -17,3 +17,4 @@ This project uses Python to explore and answer questions related to bike share s
 
 ### Credits
 I consulted this page https://motivateco.com to learn more about the bikeshare data.
+I would like to thank my study buddy Katherine Leyonmark!
